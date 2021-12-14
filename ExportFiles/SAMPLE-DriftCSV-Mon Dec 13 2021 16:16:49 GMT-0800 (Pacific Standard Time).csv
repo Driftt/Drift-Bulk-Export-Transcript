@@ -1,0 +1,11 @@
+DriftCSV-Mon Dec 13 2021 16:16:49 GMT-0800 (Pacific Standard Time)
+convo_id,assignee_id,link_to_full_conversation,company_name,updatedat_date,createdat_date,participant,transcriptObject,total_messages
+3311662207,steve@test.com,https://app.drift.com/conversations/12345678,ACME LLC,2021-11-02T19:50:26Z,2021-11-02T19:48:26Z,steve@test.com,"Nov 2, 12:48:26 PM PDT Phil: hi there
+Nov 2, 12:48:26 PM PDT Bot (Agent): Which package do you prefer?
+Nov 2, 12:48:26 PM PDT null: Package 1
+Nov 2, 12:49:09 PM PDT null: Noticed you were checking out this test. What are you looking for in a solution? 
+Nov 2, 12:49:21 PM PDT steve@test.com: Pricing",5
+3319397103,maggie@test.com,https://app.drift.com/conversations/12345678,Doe LLC,2021-11-11T21:31:33Z,2021-11-11T21:30:22Z,maggie@test.com,"Nov 11, 01:30:22 PM PST Rob Meho: Call me
+Nov 11, 01:30:32 PM PST Agent: You can grab a time on Maggie’s bot's calendar here",2
+3344071267,todd@test.com,https://app.drift.com/conversations/12345678,Panada LLC,2021-12-10T22:21:50Z,2021-12-10T22:21:00Z,todd@test.com,"Dec 10, 02:21:00 PM PST site visitor: that is my email pen@b2p.com
+Dec 10, 02:21:07 PM PST Todd: Thank you for sharing your email address",2

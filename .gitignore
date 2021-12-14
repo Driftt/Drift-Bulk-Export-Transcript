@@ -1,0 +1,8 @@
+.idea/
+
+# api keys
+.env
+
+package-lock.json
+
+node_modules/
